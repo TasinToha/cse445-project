@@ -28,7 +28,7 @@ This project presents a comprehensive machine learning pipeline for classifying 
 - **Decision Tree**
 
 ### Ensemble Model:
-- **Stacked Ensemble:** XGBoost as meta-classifier over the outputs of the base learners
+- **Stacked Ensemble:** XGBoost as meta-classifier over the outputs of the base learners (RF,SVM,KNN,XGB).
 
 ## 📈 Evaluation Metrics
 
@@ -39,7 +39,7 @@ This project presents a comprehensive machine learning pipeline for classifying 
 - **Confusion Matrix**
 - **ROC Curve (AUC = 0.81)**
 
-### Best Results (Stacked Model):
+### Best Results (Stacked Ensemble Model):
 - **Accuracy:** 88.45%
 - **Precision / Recall / F1:** 0.88 each
 
