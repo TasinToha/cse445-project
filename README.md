@@ -28,7 +28,7 @@ This project presents a comprehensive machine learning pipeline for classifying 
 - **Decision Tree**
 
 ### Ensemble Model:
-- **Stacked Ensemble:** XGBoost as meta-classifier over the outputs of the base learners (RF,SVM,KNN,XGB).
+- **Stacked Ensemble:** XGBoost as meta-classifier over the outputs of the base learners (RF, SVM, KNN, XGB).
 
 ## 📈 Evaluation Metrics
 
