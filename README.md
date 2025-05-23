@@ -1,4 +1,4 @@
-# Hepatitis C Virus (HCV) Prediction Using Machine Learning
+# CSE445 ML Project: Hepatitis C Virus (HCV) Prediction Using Machine Learning
 
 ## 📌 Project Overview
 
